@@ -3,39 +3,39 @@
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
         <url>
-            <loc>/Users/h84826/Downloads/result-10/fake-design-system.html</loc>
+            <loc>/fake-design-system.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/Users/h84826/Downloads/result-10/tokens/color.html</loc>
+            <loc>/tokens/color.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/Users/h84826/Downloads/result-10/tokens/typography.html</loc>
+            <loc>/tokens/typography.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/Users/h84826/Downloads/result-10/tokens/iconography.html</loc>
+            <loc>/tokens/iconography.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/Users/h84826/Downloads/result-10/components/action-button/design.html</loc>
+            <loc>/components/action-button/design.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/Users/h84826/Downloads/result-10/components/action-button/code.html</loc>
+            <loc>/components/action-button/code.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/Users/h84826/Downloads/result-10/patterns/login-page-mobile.html</loc>
+            <loc>/patterns/login-page-mobile.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/Users/h84826/Downloads/result-10/resources/design-tokens.html</loc>
+            <loc>/resources/design-tokens.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/Users/h84826/Downloads/result-10/resources/tools-and-resources.html</loc>
+            <loc>/resources/tools-and-resources.html</loc>
             <changefreq>weekly</changefreq>
         </url>
    
