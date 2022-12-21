@@ -5,98 +5,98 @@
     "type": "contentBlock",
     "pageName": "Fake© Design System",
     "category": "Fake© Design System",
-    "url": "/fake-design-system.html#search-8f45d460-51ed-11ec-9e6d-bdf95c8a8921"
+    "url": "./fake-design-system.html#search-8f45d460-51ed-11ec-9e6d-bdf95c8a8921"
   },
   {
     "text": "What is this documentation about?",
     "type": "contentBlock",
     "pageName": "Fake© Design System",
     "category": "Fake© Design System",
-    "url": "/fake-design-system.html#search-bcd6f080-4d2e-11ec-8ce5-cb0f56bcf344"
+    "url": "./fake-design-system.html#search-bcd6f080-4d2e-11ec-8ce5-cb0f56bcf344"
   },
   {
     "text": "How should it be used?",
     "type": "contentBlock",
     "pageName": "Fake© Design System",
     "category": "Fake© Design System",
-    "url": "/fake-design-system.html#search-74b6d1b0-4d30-11ec-8ce5-cb0f56bcf344"
+    "url": "./fake-design-system.html#search-74b6d1b0-4d30-11ec-8ce5-cb0f56bcf344"
   },
   {
     "text": "",
     "type": "contentBlock",
     "pageName": "Fake© Design System",
     "category": "Fake© Design System",
-    "url": "/fake-design-system.html#search-20cf7fa0-5363-11ec-9e6d-bdf95c8a8921"
+    "url": "./fake-design-system.html#search-20cf7fa0-5363-11ec-9e6d-bdf95c8a8921"
   },
   {
     "text": "Get started",
     "type": "sectionHeader",
     "pageName": "Fake© Design System",
     "category": "Fake© Design System",
-    "url": "/fake-design-system.html#search-b3d78e20-4d30-11ec-8ce5-cb0f56bcf344"
+    "url": "./fake-design-system.html#search-b3d78e20-4d30-11ec-8ce5-cb0f56bcf344"
   },
   {
     "text": "What do users need to know to get started?",
     "type": "contentBlock",
     "pageName": "Fake© Design System",
     "category": "Fake© Design System",
-    "url": "/fake-design-system.html#search-bf8b0210-4d30-11ec-8ce5-cb0f56bcf344"
+    "url": "./fake-design-system.html#search-bf8b0210-4d30-11ec-8ce5-cb0f56bcf344"
   },
   {
     "text": "",
     "type": "contentBlock",
     "pageName": "Fake© Design System",
     "category": "Fake© Design System",
-    "url": "/fake-design-system.html#search-38bef170-4c5d-11ec-8da3-557eed56e2dd"
+    "url": "./fake-design-system.html#search-38bef170-4c5d-11ec-8da3-557eed56e2dd"
   },
   {
     "text": "To guide users to other sections of your documentation, use a Shortcut block:",
     "type": "contentBlock",
     "pageName": "Fake© Design System",
     "category": "Fake© Design System",
-    "url": "/fake-design-system.html#search-7af440e0-4c5d-11ec-8da3-557eed56e2dd"
+    "url": "./fake-design-system.html#search-7af440e0-4c5d-11ec-8da3-557eed56e2dd"
   },
   {
     "text": "",
     "type": "contentBlock",
     "pageName": "Fake© Design System",
     "category": "Fake© Design System",
-    "url": "/fake-design-system.html#search-05547490-51ee-11ec-9e6d-bdf95c8a8921"
+    "url": "./fake-design-system.html#search-05547490-51ee-11ec-9e6d-bdf95c8a8921"
   },
   {
     "text": "",
     "type": "contentBlock",
     "pageName": "Fake© Design System",
     "category": "Fake© Design System",
-    "url": "/fake-design-system.html#search-43324130-4d42-11ec-8ce5-cb0f56bcf344"
+    "url": "./fake-design-system.html#search-43324130-4d42-11ec-8ce5-cb0f56bcf344"
   },
   {
     "text": "",
     "type": "contentBlock",
     "pageName": "Fake© Design System",
     "category": "Fake© Design System",
-    "url": "/fake-design-system.html#search-51fc91b0-51da-11ec-9e6d-bdf95c8a8921"
+    "url": "./fake-design-system.html#search-51fc91b0-51da-11ec-9e6d-bdf95c8a8921"
   },
   {
     "text": "",
     "type": "contentBlock",
     "pageName": "Fake© Design System",
     "category": "Fake© Design System",
-    "url": "/fake-design-system.html#search-5d237d10-51da-11ec-9e6d-bdf95c8a8921"
+    "url": "./fake-design-system.html#search-5d237d10-51da-11ec-9e6d-bdf95c8a8921"
   },
   {
     "text": "",
     "type": "contentBlock",
     "pageName": "Fake© Design System",
     "category": "Fake© Design System",
-    "url": "/fake-design-system.html#search-66990f50-4d42-11ec-8ce5-cb0f56bcf344"
+    "url": "./fake-design-system.html#search-66990f50-4d42-11ec-8ce5-cb0f56bcf344"
   },
   {
     "text": "Fake© Design System",
     "type": "pageTitle",
     "pageName": "Fake© Design System",
     "category": "Fake© Design System",
-    "url": "/fake-design-system.html"
+    "url": "./fake-design-system.html"
   },
   {
     "text": " Tokens",
@@ -467,7 +467,7 @@
     "type": "groupTitle",
     "pageName": "Documentation Root",
     "category": "Documentation Root",
-    "url": "/fake-design-system.html"
+    "url": "./fake-design-system.html"
   },
   {
     "text": "Tokens",

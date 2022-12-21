@@ -25,7 +25,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: https://tmorrowdev.github.io/result-10/
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -37,7 +37,7 @@ jobs:
         with:
           # Upload entire repository
           path: '.'
-      - name: Github Pages Custom Deploy
+      - name: Deploy to GitHub Pages
         id: deployment
         outputs:
           page_url: 'https://tmorrowdev.github.io/result-10/
