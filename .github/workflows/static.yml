@@ -37,6 +37,7 @@ jobs:
         with:
           # Upload entire repository
           path: '.'
-      - name: Deploy to GitHub Pages
+      - name: Github Pages Custom Deploy
         id: deployment
-        uses: actions/deploy-pages@v1
+        outputs:
+          page_url: 'https://tmorrowdev.github.io/result-10/
