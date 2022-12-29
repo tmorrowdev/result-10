@@ -204,11 +204,25 @@
     "url": "/tokens/iconography.html#search-9669dab0-4d43-11ec-8ce5-cb0f56bcf344"
   },
   {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Iconography",
+    "category": "Tokens / Iconography",
+    "url": "/tokens/iconography.html#search-62b06420-871a-11ed-8ca6-cfa092070491"
+  },
+  {
     "text": "Or add assets directly from Figma:",
     "type": "contentBlock",
     "pageName": "Iconography",
     "category": "Tokens / Iconography",
     "url": "/tokens/iconography.html#search-71f96f50-4d44-11ec-8ce5-cb0f56bcf344"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Iconography",
+    "category": "Tokens / Iconography",
+    "url": "/tokens/iconography.html#search-58081ea0-871a-11ed-8ca6-cfa092070491"
   },
   {
     "text": "",
