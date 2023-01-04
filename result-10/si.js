@@ -75,6 +75,13 @@
     "type": "contentBlock",
     "pageName": "Fake© Design System",
     "category": "Fake© Design System",
+    "url": "/fake-design-system.html#search-526dd950-8b87-11ed-b02c-ff8308ee849d"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Fake© Design System",
+    "category": "Fake© Design System",
     "url": "/fake-design-system.html#search-51fc91b0-51da-11ec-9e6d-bdf95c8a8921"
   },
   {
@@ -148,34 +155,6 @@
     "url": "/tokens/color.html"
   },
   {
-    "text": "Heading",
-    "type": "sectionHeader",
-    "pageName": "Typography",
-    "category": "Tokens / Typography",
-    "url": "/tokens/typography.html#search-d8fd0190-4d43-11ec-8ce5-cb0f56bcf344"
-  },
-  {
-    "text": "Body",
-    "type": "sectionHeader",
-    "pageName": "Typography",
-    "category": "Tokens / Typography",
-    "url": "/tokens/typography.html#search-74427160-51d8-11ec-9e6d-bdf95c8a8921"
-  },
-  {
-    "text": "Code",
-    "type": "sectionHeader",
-    "pageName": "Typography",
-    "category": "Tokens / Typography",
-    "url": "/tokens/typography.html#search-75e8f570-51d8-11ec-9e6d-bdf95c8a8921"
-  },
-  {
-    "text": "@mixin typography-body-primary{\n  font-size: 18px;\n  font-family: 'Inter Regular', sans-serif;\n  font-weight: normal;\n}",
-    "type": "contentBlock",
-    "pageName": "Typography",
-    "category": "Tokens / Typography",
-    "url": "/tokens/typography.html#search-2c83e800-74b8-11ed-915d-cf7e07a0ab2d"
-  },
-  {
     "text": "",
     "type": "contentBlock",
     "pageName": "Typography",
@@ -183,7 +162,14 @@
     "url": "/tokens/typography.html#search-0358aa20-4d44-11ec-8ce5-cb0f56bcf344"
   },
   {
-    "text": "Fonts",
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Typography",
+    "category": "Tokens / Typography",
+    "url": "/tokens/typography.html#search-ee973190-8156-11ed-963c-7dca222e68ed"
+  },
+  {
+    "text": "Globals",
     "type": "sectionHeader",
     "pageName": "Typography",
     "category": "Tokens / Typography",
@@ -225,11 +211,25 @@
     "url": "/tokens/iconography.html#search-9669dab0-4d43-11ec-8ce5-cb0f56bcf344"
   },
   {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Iconography",
+    "category": "Tokens / Iconography",
+    "url": "/tokens/iconography.html#search-62b06420-871a-11ed-8ca6-cfa092070491"
+  },
+  {
     "text": "Or add assets directly from Figma:",
     "type": "contentBlock",
     "pageName": "Iconography",
     "category": "Tokens / Iconography",
     "url": "/tokens/iconography.html#search-71f96f50-4d44-11ec-8ce5-cb0f56bcf344"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Iconography",
+    "category": "Tokens / Iconography",
+    "url": "/tokens/iconography.html#search-58081ea0-871a-11ed-8ca6-cfa092070491"
   },
   {
     "text": "",
@@ -344,11 +344,11 @@
     "url": "/components/action-button/code.html#search-527f85e0-80ad-11ed-ba82-6b646388b8ea"
   },
   {
-    "text": "Implementation for developers in CignaNx only",
+    "text": "",
     "type": "contentBlock",
     "pageName": "Action/Button /Code",
     "category": "Components / Action/Button  / Code",
-    "url": "/components/action-button/code.html#search-317b3270-80a5-11ed-ba82-6b646388b8ea"
+    "url": "/components/action-button/code.html#search-67d06ab1-7a39-11ed-8a1a-5191561229a1"
   },
   {
     "text": "",
@@ -362,7 +362,7 @@
     "type": "contentBlock",
     "pageName": "Action/Button /Code",
     "category": "Components / Action/Button  / Code",
-    "url": "/components/action-button/code.html#search-67d06ab1-7a39-11ed-8a1a-5191561229a1"
+    "url": "/components/action-button/code.html#search-1580be61-8b8a-11ed-b02c-ff8308ee849d"
   },
   {
     "text": "Code",
@@ -398,6 +398,20 @@
     "pageName": "Login Page-Mobile",
     "category": "Patterns / Login Page-Mobile",
     "url": "/patterns/login-page-mobile.html"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Review Pattern - Mobile",
+    "category": "Patterns / Review Pattern - Mobile",
+    "url": "/patterns/review-pattern-mobile.html#search-e725ca21-8b88-11ed-b02c-ff8308ee849d"
+  },
+  {
+    "text": "Review Pattern - Mobile",
+    "type": "pageTitle",
+    "pageName": "Review Pattern - Mobile",
+    "category": "Patterns / Review Pattern - Mobile",
+    "url": "/patterns/review-pattern-mobile.html"
   },
   {
     "text": "",
