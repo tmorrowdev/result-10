@@ -318,51 +318,51 @@
   {
     "text": "Button",
     "type": "sectionHeader",
-    "pageName": "Action/Button /Code",
-    "category": "Brand 1 / Components / Action/Button  / Code",
-    "url": "/brand-1/components/action-button/code.html#search-4dbd9100-80ad-11ed-ba82-6b646388b8ea"
+    "pageName": "Code",
+    "category": "Brand 1 / Components / Code",
+    "url": "/brand-1/components/code.html#search-4dbd9100-80ad-11ed-ba82-6b646388b8ea"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Action/Button /Code",
-    "category": "Brand 1 / Components / Action/Button  / Code",
-    "url": "/brand-1/components/action-button/code.html#search-6723a481-7b2c-11ed-8feb-d3e03a68e6f1"
+    "pageName": "Code",
+    "category": "Brand 1 / Components / Code",
+    "url": "/brand-1/components/code.html#search-6723a481-7b2c-11ed-8feb-d3e03a68e6f1"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Action/Button /Code",
-    "category": "Brand 1 / Components / Action/Button  / Code",
-    "url": "/brand-1/components/action-button/code.html#search-527f85e0-80ad-11ed-ba82-6b646388b8ea"
+    "pageName": "Code",
+    "category": "Brand 1 / Components / Code",
+    "url": "/brand-1/components/code.html#search-527f85e0-80ad-11ed-ba82-6b646388b8ea"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Action/Button /Code",
-    "category": "Brand 1 / Components / Action/Button  / Code",
-    "url": "/brand-1/components/action-button/code.html#search-67d06ab1-7a39-11ed-8a1a-5191561229a1"
+    "pageName": "Code",
+    "category": "Brand 1 / Components / Code",
+    "url": "/brand-1/components/code.html#search-67d06ab1-7a39-11ed-8a1a-5191561229a1"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Action/Button /Code",
-    "category": "Brand 1 / Components / Action/Button  / Code",
-    "url": "/brand-1/components/action-button/code.html#search-638b1fe1-7a39-11ed-8a1a-5191561229a1"
+    "pageName": "Code",
+    "category": "Brand 1 / Components / Code",
+    "url": "/brand-1/components/code.html#search-638b1fe1-7a39-11ed-8a1a-5191561229a1"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Action/Button /Code",
-    "category": "Brand 1 / Components / Action/Button  / Code",
-    "url": "/brand-1/components/action-button/code.html#search-1580be61-8b8a-11ed-b02c-ff8308ee849d"
+    "pageName": "Code",
+    "category": "Brand 1 / Components / Code",
+    "url": "/brand-1/components/code.html#search-1580be61-8b8a-11ed-b02c-ff8308ee849d"
   },
   {
     "text": "Code",
     "type": "pageTitle",
-    "pageName": "Action/Button /Code",
-    "category": "Brand 1 / Components / Action/Button  / Code",
-    "url": "/brand-1/components/action-button/code.html"
+    "pageName": "Code",
+    "category": "Brand 1 / Components / Code",
+    "url": "/brand-1/components/code.html"
   },
   {
     "text": "",
