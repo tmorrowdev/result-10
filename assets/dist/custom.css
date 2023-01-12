@@ -6,13 +6,15 @@
     /* =========================== */
 
     
-    --fontFamily: Inter, Arial, sans-serif;
+    --fontFamily: 'Manrope', sans-serif;
     
+    --colorAccent: #0804cbff;
+    --colorAccentSurface: #fefefeff;
     
     --contentMaxWidth: 756px;
     
     --topNavHeight: 68px;
-    --logoHeight: 28px;
+    --logoHeight: 150px;
     
 }
 
