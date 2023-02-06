@@ -55,6 +55,14 @@
             <changefreq>weekly</changefreq>
         </url>
         <url>
+            <loc>/brand-2/components/action-button/code.html</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/brand-2/components/action-button/accessibility.html</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
             <loc>/brand-2/components/code.html</loc>
             <changefreq>weekly</changefreq>
         </url>

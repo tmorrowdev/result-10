@@ -603,6 +603,146 @@
     "url": "/brand-2/components/action-button/design.html"
   },
   {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Action/Button /Code",
+    "category": "Brand 2 / Components / Action/Button  / Code",
+    "url": "/brand-2/components/action-button/code.html#search-228cf350-a32a-11ed-8b96-a7e10da06385"
+  },
+  {
+    "text": "Code",
+    "type": "pageTitle",
+    "pageName": "Action/Button /Code",
+    "category": "Brand 2 / Components / Action/Button  / Code",
+    "url": "/brand-2/components/action-button/code.html"
+  },
+  {
+    "text": "Description",
+    "type": "sectionHeader",
+    "pageName": "Action/Button /Accessibility",
+    "category": "Brand 2 / Components / Action/Button  / Accessibility",
+    "url": "/brand-2/components/action-button/accessibility.html#search-7bfa4bd0-a632-11ed-b818-6387ab89b210"
+  },
+  {
+    "text": "A <button> tag does not need anything special to work. Use <button> when you can, but it is possible to use other elements as long as you add role=\"button\" and add JavaScript to replicate the button functionality.",
+    "type": "contentBlock",
+    "pageName": "Action/Button /Accessibility",
+    "category": "Brand 2 / Components / Action/Button  / Accessibility",
+    "url": "/brand-2/components/action-button/accessibility.html#search-71a381b1-a632-11ed-b818-6387ab89b210"
+  },
+  {
+    "text": "Just like links, you can add class=\"visuallyhidden\" with descriptive text to give more context to the button's purpose.",
+    "type": "contentBlock",
+    "pageName": "Action/Button /Accessibility",
+    "category": "Brand 2 / Components / Action/Button  / Accessibility",
+    "url": "/brand-2/components/action-button/accessibility.html#search-848a38a0-a632-11ed-b818-6387ab89b210"
+  },
+  {
+    "text": "If a button contains an <img> element, make sure to set its alt attribute. If it contains an icon, use aria-label to describe the icon instead.",
+    "type": "contentBlock",
+    "pageName": "Action/Button /Accessibility",
+    "category": "Brand 2 / Components / Action/Button  / Accessibility",
+    "url": "/brand-2/components/action-button/accessibility.html#search-71a381b2-a632-11ed-b818-6387ab89b210"
+  },
+  {
+    "text": "You can use <input type=\"image\"> to make a graphical button. It takes a src and alt attribute just like traditional images.",
+    "type": "contentBlock",
+    "pageName": "Action/Button /Accessibility",
+    "category": "Brand 2 / Components / Action/Button  / Accessibility",
+    "url": "/brand-2/components/action-button/accessibility.html#search-71a381b3-a632-11ed-b818-6387ab89b210"
+  },
+  {
+    "text": "Button states are important, not just button styling! If you are only toggling classes to visually manage state of your components, you are likely not appropriately conveying that state to users of assistive technologies.",
+    "type": "contentBlock",
+    "pageName": "Action/Button /Accessibility",
+    "category": "Brand 2 / Components / Action/Button  / Accessibility",
+    "url": "/brand-2/components/action-button/accessibility.html#search-71a3a8c0-a632-11ed-b818-6387ab89b210"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Action/Button /Accessibility",
+    "category": "Brand 2 / Components / Action/Button  / Accessibility",
+    "url": "/brand-2/components/action-button/accessibility.html#search-73bc76a0-a632-11ed-b818-6387ab89b210"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Action/Button /Accessibility",
+    "category": "Brand 2 / Components / Action/Button  / Accessibility",
+    "url": "/brand-2/components/action-button/accessibility.html#search-743269f0-a632-11ed-b818-6387ab89b210"
+  },
+  {
+    "text": "Resources",
+    "type": "sectionHeader",
+    "pageName": "Action/Button /Accessibility",
+    "category": "Brand 2 / Components / Action/Button  / Accessibility",
+    "url": "/brand-2/components/action-button/accessibility.html#search-a3bafe30-a632-11ed-b818-6387ab89b210"
+  },
+  {
+    "text": "Building Accessible Buttons with ARIA",
+    "type": "contentBlock",
+    "pageName": "Action/Button /Accessibility",
+    "category": "Brand 2 / Components / Action/Button  / Accessibility",
+    "url": "/brand-2/components/action-button/accessibility.html#search-b6591360-a632-11ed-b818-6387ab89b210"
+  },
+  {
+    "text": "User Facing State",
+    "type": "contentBlock",
+    "pageName": "Action/Button /Accessibility",
+    "category": "Brand 2 / Components / Action/Button  / Accessibility",
+    "url": "/brand-2/components/action-button/accessibility.html#search-b6591361-a632-11ed-b818-6387ab89b210"
+  },
+  {
+    "text": "Using the button role",
+    "type": "contentBlock",
+    "pageName": "Action/Button /Accessibility",
+    "category": "Brand 2 / Components / Action/Button  / Accessibility",
+    "url": "/brand-2/components/action-button/accessibility.html#search-b6591362-a632-11ed-b818-6387ab89b210"
+  },
+  {
+    "text": "W3C Button Examples",
+    "type": "contentBlock",
+    "pageName": "Action/Button /Accessibility",
+    "category": "Brand 2 / Components / Action/Button  / Accessibility",
+    "url": "/brand-2/components/action-button/accessibility.html#search-b6591363-a632-11ed-b818-6387ab89b210"
+  },
+  {
+    "text": "WCAG Guideline",
+    "type": "contentBlock",
+    "pageName": "Action/Button /Accessibility",
+    "category": "Brand 2 / Components / Action/Button  / Accessibility",
+    "url": "/brand-2/components/action-button/accessibility.html#search-9535f3b0-a632-11ed-b818-6387ab89b210"
+  },
+  {
+    "text": "1.1.1 Non-text Content - All non-text content that is presented to the user has a text alternative that serves the equivalent purpose (some exceptions). (Level A)",
+    "type": "contentBlock",
+    "pageName": "Action/Button /Accessibility",
+    "category": "Brand 2 / Components / Action/Button  / Accessibility",
+    "url": "/brand-2/components/action-button/accessibility.html#search-9922be40-a632-11ed-b818-6387ab89b210"
+  },
+  {
+    "text": "Note: If non-text content is pure decoration, is used only for visual formatting, or is not presented to users, then it does not need text alternatives.",
+    "type": "contentBlock",
+    "pageName": "Action/Button /Accessibility",
+    "category": "Brand 2 / Components / Action/Button  / Accessibility",
+    "url": "/brand-2/components/action-button/accessibility.html#search-9922be41-a632-11ed-b818-6387ab89b210"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Action/Button /Accessibility",
+    "category": "Brand 2 / Components / Action/Button  / Accessibility",
+    "url": "/brand-2/components/action-button/accessibility.html#search-78a44300-a632-11ed-b818-6387ab89b210"
+  },
+  {
+    "text": "Accessibility",
+    "type": "pageTitle",
+    "pageName": "Action/Button /Accessibility",
+    "category": "Brand 2 / Components / Action/Button  / Accessibility",
+    "url": "/brand-2/components/action-button/accessibility.html"
+  },
+  {
     "text": "Button",
     "type": "sectionHeader",
     "pageName": "Code",
