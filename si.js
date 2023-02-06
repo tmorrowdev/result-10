@@ -544,13 +544,6 @@
     "type": "contentBlock",
     "pageName": "Action/Button /Design",
     "category": "Brand 2 / Components / Action/Button  / Design",
-    "url": "/brand-2/components/action-button/design.html#search-3a9bd6b0-8c4f-11ed-96aa-476d8f720270"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Action/Button /Design",
-    "category": "Brand 2 / Components / Action/Button  / Design",
     "url": "/brand-2/components/action-button/design.html#search-c69c3df0-80a9-11ed-ba82-6b646388b8ea"
   },
   {
@@ -601,20 +594,6 @@
     "pageName": "Action/Button /Design",
     "category": "Brand 2 / Components / Action/Button  / Design",
     "url": "/brand-2/components/action-button/design.html"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Action/Button /Code",
-    "category": "Brand 2 / Components / Action/Button  / Code",
-    "url": "/brand-2/components/action-button/code.html#search-228cf350-a32a-11ed-8b96-a7e10da06385"
-  },
-  {
-    "text": "Code",
-    "type": "pageTitle",
-    "pageName": "Action/Button /Code",
-    "category": "Brand 2 / Components / Action/Button  / Code",
-    "url": "/brand-2/components/action-button/code.html"
   },
   {
     "text": "Description",
