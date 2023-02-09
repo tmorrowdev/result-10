@@ -31,6 +31,10 @@
             <changefreq>weekly</changefreq>
         </url>
         <url>
+            <loc>/brand-1/components/buttons/content.html</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
             <loc>/brand-1/patterns/card-pattern.html</loc>
             <changefreq>weekly</changefreq>
         </url>

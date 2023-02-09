@@ -330,6 +330,90 @@
     "url": "/brand-1/components/buttons/code.html"
   },
   {
+    "text": "Yes",
+    "type": "sectionHeader",
+    "pageName": "Buttons/Content",
+    "category": "Brand 1 / Components / Buttons / Content",
+    "url": "/brand-1/components/buttons/content.html#search-dd39c3d1-a894-11ed-9487-f5f7e14df826"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Buttons/Content",
+    "category": "Brand 1 / Components / Buttons / Content",
+    "url": "/brand-1/components/buttons/content.html#search-37aabad0-a896-11ed-baf3-5f55dfd4ff0b"
+  },
+  {
+    "text": "No",
+    "type": "sectionHeader",
+    "pageName": "Buttons/Content",
+    "category": "Brand 1 / Components / Buttons / Content",
+    "url": "/brand-1/components/buttons/content.html#search-150d3020-a896-11ed-baf3-5f55dfd4ff0b"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Buttons/Content",
+    "category": "Brand 1 / Components / Buttons / Content",
+    "url": "/brand-1/components/buttons/content.html#search-642197b0-a895-11ed-9487-f5f7e14df826"
+  },
+  {
+    "text": "Use yes when....",
+    "type": "contentBlock",
+    "pageName": "Buttons/Content",
+    "category": "Brand 1 / Components / Buttons / Content",
+    "url": "/brand-1/components/buttons/content.html#search-2599ca71-a896-11ed-baf3-5f55dfd4ff0b"
+  },
+  {
+    "text": "Use when...",
+    "type": "contentBlock",
+    "pageName": "Buttons/Content",
+    "category": "Brand 1 / Components / Buttons / Content",
+    "url": "/brand-1/components/buttons/content.html#search-2c384781-a896-11ed-baf3-5f55dfd4ff0b"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Buttons/Content",
+    "category": "Brand 1 / Components / Buttons / Content",
+    "url": "/brand-1/components/buttons/content.html#search-2fb49d01-a896-11ed-baf3-5f55dfd4ff0b"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Buttons/Content",
+    "category": "Brand 1 / Components / Buttons / Content",
+    "url": "/brand-1/components/buttons/content.html#search-327e6b61-a896-11ed-baf3-5f55dfd4ff0b"
+  },
+  {
+    "text": "Use when...",
+    "type": "contentBlock",
+    "pageName": "Buttons/Content",
+    "category": "Brand 1 / Components / Buttons / Content",
+    "url": "/brand-1/components/buttons/content.html#search-4e834561-a896-11ed-baf3-5f55dfd4ff0b"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Buttons/Content",
+    "category": "Brand 1 / Components / Buttons / Content",
+    "url": "/brand-1/components/buttons/content.html#search-51dde211-a896-11ed-baf3-5f55dfd4ff0b"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Buttons/Content",
+    "category": "Brand 1 / Components / Buttons / Content",
+    "url": "/brand-1/components/buttons/content.html#search-5535e6b1-a896-11ed-baf3-5f55dfd4ff0b"
+  },
+  {
+    "text": "Content",
+    "type": "pageTitle",
+    "pageName": "Buttons/Content",
+    "category": "Brand 1 / Components / Buttons / Content",
+    "url": "/brand-1/components/buttons/content.html"
+  },
+  {
     "text": "",
     "type": "contentBlock",
     "pageName": "Card Pattern",
