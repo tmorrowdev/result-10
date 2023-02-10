@@ -423,6 +423,34 @@
   {
     "text": "",
     "type": "contentBlock",
+    "pageName": "Buttons/Accessibility",
+    "category": "Brand 1 / Components / Buttons / Accessibility",
+    "url": "/brand-1/components/buttons/accessibility.html#search-af9f4c71-a96f-11ed-baf3-5f55dfd4ff0b"
+  },
+  {
+    "text": "Accessibility",
+    "type": "pageTitle",
+    "pageName": "Buttons/Accessibility",
+    "category": "Brand 1 / Components / Buttons / Accessibility",
+    "url": "/brand-1/components/buttons/accessibility.html"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Buttons/IS THERE A SEARCH HERE?",
+    "category": "Brand 1 / Components / Buttons / IS THERE A SEARCH HERE?",
+    "url": "/brand-1/components/buttons/is-there-a-search-here.html#search-120f3ae0-a971-11ed-baf3-5f55dfd4ff0b"
+  },
+  {
+    "text": "IS THERE A SEARCH HERE?",
+    "type": "pageTitle",
+    "pageName": "Buttons/IS THERE A SEARCH HERE?",
+    "category": "Brand 1 / Components / Buttons / IS THERE A SEARCH HERE?",
+    "url": "/brand-1/components/buttons/is-there-a-search-here.html"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
     "pageName": "Card Pattern",
     "category": "Brand 1 / Patterns / Card Pattern",
     "url": "/brand-1/patterns/card-pattern.html#search-e124f7e0-80ac-11ed-ba82-6b646388b8ea"

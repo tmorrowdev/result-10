@@ -35,6 +35,14 @@
             <changefreq>weekly</changefreq>
         </url>
         <url>
+            <loc>/brand-1/components/buttons/accessibility.html</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/brand-1/components/buttons/is-there-a-search-here.html</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
             <loc>/brand-1/patterns/card-pattern.html</loc>
             <changefreq>weekly</changefreq>
         </url>
