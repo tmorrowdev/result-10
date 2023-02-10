@@ -365,11 +365,18 @@
     "url": "/brand-1/components/buttons/content.html#search-2599ca71-a896-11ed-baf3-5f55dfd4ff0b"
   },
   {
-    "text": "Use when...",
+    "text": "",
     "type": "contentBlock",
     "pageName": "Buttons/Content",
     "category": "Brand 1 / Components / Buttons / Content",
     "url": "/brand-1/components/buttons/content.html#search-2c384781-a896-11ed-baf3-5f55dfd4ff0b"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Buttons/Content",
+    "category": "Brand 1 / Components / Buttons / Content",
+    "url": "/brand-1/components/buttons/content.html#search-c4b613f0-a8d9-11ed-baf3-5f55dfd4ff0b"
   },
   {
     "text": "",
