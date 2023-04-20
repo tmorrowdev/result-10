@@ -708,7 +708,7 @@
     "url": "/brand-2/components/action-button/accessibility.html#search-7bfa4bd0-a632-11ed-b818-6387ab89b210"
   },
   {
-    "text": "A <button> tag does not need anything special to work. Use <button> when you can, but it is possible to use other elements as long as you add role=\"button\" and add JavaScript to replicate the button functionality.",
+    "text": "A &lt;button&gt; tag does not need anything special to work. Use &lt;button&gt; when you can, but it is possible to use other elements as long as you add role=\"button\" and add JavaScript to replicate the button functionality.",
     "type": "contentBlock",
     "pageName": "Action/Button /Accessibility",
     "category": "Brand 2 / Components / Action/Button  / Accessibility",
@@ -722,14 +722,14 @@
     "url": "/brand-2/components/action-button/accessibility.html#search-848a38a0-a632-11ed-b818-6387ab89b210"
   },
   {
-    "text": "If a button contains an <img> element, make sure to set its alt attribute. If it contains an icon, use aria-label to describe the icon instead.",
+    "text": "If a button contains an &lt;img&gt; element, make sure to set its alt attribute. If it contains an icon, use aria-label to describe the icon instead.",
     "type": "contentBlock",
     "pageName": "Action/Button /Accessibility",
     "category": "Brand 2 / Components / Action/Button  / Accessibility",
     "url": "/brand-2/components/action-button/accessibility.html#search-71a381b2-a632-11ed-b818-6387ab89b210"
   },
   {
-    "text": "You can use <input type=\"image\"> to make a graphical button. It takes a src and alt attribute just like traditional images.",
+    "text": "You can use &lt;input type=\"image\"&gt; to make a graphical button. It takes a src and alt attribute just like traditional images.",
     "type": "contentBlock",
     "pageName": "Action/Button /Accessibility",
     "category": "Brand 2 / Components / Action/Button  / Accessibility",
