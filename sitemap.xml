@@ -3,87 +3,87 @@
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
         <url>
-            <loc>/about-fake-ui.html</loc>
+            <loc>/leaf.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/brand-1/tokens/color-tokens.html</loc>
+            <loc>/web/tokens/color-tokens.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/brand-1/tokens/typography.html</loc>
+            <loc>/web/tokens/typography.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/brand-1/tokens/shadow.html</loc>
+            <loc>/web/tokens/shadow.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/brand-1/components/component-audit.html</loc>
+            <loc>/web/components/component-audit.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/brand-1/components/buttons/design.html</loc>
+            <loc>/web/components/buttons/design.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/brand-1/components/buttons/code.html</loc>
+            <loc>/web/components/buttons/code.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/brand-1/components/buttons/content.html</loc>
+            <loc>/web/components/buttons/content.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/brand-1/components/buttons/accessibility.html</loc>
+            <loc>/web/components/buttons/accessibility.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/brand-1/patterns/card-pattern.html</loc>
+            <loc>/web/patterns/card-pattern.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/brand-1/resources/tools-and-resources.html</loc>
+            <loc>/web/resources/tools-and-resources.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/brand-2/tokens/color.html</loc>
+            <loc>/i-os/tokens/color.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/brand-2/tokens/typography.html</loc>
+            <loc>/i-os/tokens/typography.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/brand-2/tokens/shadow.html</loc>
+            <loc>/i-os/tokens/shadow.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/brand-2/components/action-button/design.html</loc>
+            <loc>/i-os/components/action-button/design.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/brand-2/components/action-button/accessibility.html</loc>
+            <loc>/i-os/components/action-button/accessibility.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/brand-2/components/code.html</loc>
+            <loc>/i-os/components/code.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/brand-2/patterns/login-page-mobile.html</loc>
+            <loc>/i-os/patterns/login-page-mobile.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/brand-2/patterns/review-pattern-mobile.html</loc>
+            <loc>/i-os/patterns/review-pattern-mobile.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/brand-2/patterns/resources/tools-and-resources.html</loc>
+            <loc>/i-os/patterns/resources/tools-and-resources.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/brand-2/patterns/resources/item.html</loc>
+            <loc>/i-os/patterns/resources/item.html</loc>
             <changefreq>weekly</changefreq>
         </url>
    
