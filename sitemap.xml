@@ -3,7 +3,35 @@
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
         <url>
-            <loc>/leaf.html</loc>
+            <loc>/welcome-to-leaf/about-leaf.html</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/welcome-to-leaf/get-started.html</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/welcome-to-leaf/style-guide.html</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/welcome-to-leaf/tokens.html</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/welcome-to-leaf/voice-and-tone.html</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/welcome-to-leaf/glossary.html</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/welcome-to-leaf/engineering-resources.html</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/welcome-to-leaf/accessibility.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
@@ -23,19 +51,19 @@
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/web/components/buttons/design.html</loc>
+            <loc>/web/buttons/design.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/web/components/buttons/code.html</loc>
+            <loc>/web/buttons/code.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/web/components/buttons/content.html</loc>
+            <loc>/web/buttons/content.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/web/components/buttons/accessibility.html</loc>
+            <loc>/web/buttons/accessibility.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
