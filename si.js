@@ -155,11 +155,18 @@
     "url": "/web/components/buttons/design.html#search-009bef82-8de5-11ed-86b4-991d81d4ddab"
   },
   {
-    "text": "Primary | Success | Warning | Danger | Neutral | Black | White",
+    "text": "Primary",
     "type": "contentBlock",
     "pageName": "Buttons/Design",
     "category": "Web / Components / Buttons / Design",
-    "url": "/web/components/buttons/design.html#search-009bef83-8de5-11ed-86b4-991d81d4ddab"
+    "url": "/web/components/buttons/design.html#search-7e6c1dd0-eb4c-11ed-bb0d-1b7c05955cfa"
+  },
+  {
+    "text": "Success",
+    "type": "contentBlock",
+    "pageName": "Buttons/Design",
+    "category": "Web / Components / Buttons / Design",
+    "url": "/web/components/buttons/design.html#search-a390c890-eb4c-11ed-bb0d-1b7c05955cfa"
   },
   {
     "text": "Shapes",
@@ -208,7 +215,133 @@
     "type": "contentBlock",
     "pageName": "Buttons/Design",
     "category": "Web / Components / Buttons / Design",
+    "url": "/web/components/buttons/design.html#search-e8c76690-eb4b-11ed-bb0d-1b7c05955cfa"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Buttons/Design",
+    "category": "Web / Components / Buttons / Design",
+    "url": "/web/components/buttons/design.html#search-e95304c0-eb4b-11ed-bb0d-1b7c05955cfa"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Buttons/Design",
+    "category": "Web / Components / Buttons / Design",
     "url": "/web/components/buttons/design.html#search-47050720-8df1-11ed-bc88-1300f5527180"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Buttons/Design",
+    "category": "Web / Components / Buttons / Design",
+    "url": "/web/components/buttons/design.html#search-edfa6cc1-eb4b-11ed-bb0d-1b7c05955cfa"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Buttons/Design",
+    "category": "Web / Components / Buttons / Design",
+    "url": "/web/components/buttons/design.html#search-1c6ada40-eb4c-11ed-bb0d-1b7c05955cfa"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Buttons/Design",
+    "category": "Web / Components / Buttons / Design",
+    "url": "/web/components/buttons/design.html#search-f3d6f961-eb4b-11ed-bb0d-1b7c05955cfa"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Buttons/Design",
+    "category": "Web / Components / Buttons / Design",
+    "url": "/web/components/buttons/design.html#search-f754ae71-eb4b-11ed-bb0d-1b7c05955cfa"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Buttons/Design",
+    "category": "Web / Components / Buttons / Design",
+    "url": "/web/components/buttons/design.html#search-34c49bb1-eb4e-11ed-bb0d-1b7c05955cfa"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Buttons/Design",
+    "category": "Web / Components / Buttons / Design",
+    "url": "/web/components/buttons/design.html#search-359bc1d1-eb4e-11ed-bb0d-1b7c05955cfa"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Buttons/Design",
+    "category": "Web / Components / Buttons / Design",
+    "url": "/web/components/buttons/design.html#search-364b89d1-eb4e-11ed-bb0d-1b7c05955cfa"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Buttons/Design",
+    "category": "Web / Components / Buttons / Design",
+    "url": "/web/components/buttons/design.html#search-36de7b01-eb4e-11ed-bb0d-1b7c05955cfa"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Buttons/Design",
+    "category": "Web / Components / Buttons / Design",
+    "url": "/web/components/buttons/design.html#search-37a1a3f1-eb4e-11ed-bb0d-1b7c05955cfa"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Buttons/Design",
+    "category": "Web / Components / Buttons / Design",
+    "url": "/web/components/buttons/design.html#search-380520b1-eb4e-11ed-bb0d-1b7c05955cfa"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Buttons/Design",
+    "category": "Web / Components / Buttons / Design",
+    "url": "/web/components/buttons/design.html#search-3857fba1-eb4e-11ed-bb0d-1b7c05955cfa"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Buttons/Design",
+    "category": "Web / Components / Buttons / Design",
+    "url": "/web/components/buttons/design.html#search-955c8b41-eb4e-11ed-bb0d-1b7c05955cfa"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Buttons/Design",
+    "category": "Web / Components / Buttons / Design",
+    "url": "/web/components/buttons/design.html#search-aa0cf092-eb4c-11ed-bb0d-1b7c05955cfa"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Buttons/Design",
+    "category": "Web / Components / Buttons / Design",
+    "url": "/web/components/buttons/design.html#search-aa0d17a0-eb4c-11ed-bb0d-1b7c05955cfa"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Buttons/Design",
+    "category": "Web / Components / Buttons / Design",
+    "url": "/web/components/buttons/design.html#search-aa0d17a3-eb4c-11ed-bb0d-1b7c05955cfa"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Buttons/Design",
+    "category": "Web / Components / Buttons / Design",
+    "url": "/web/components/buttons/design.html#search-aa0d17a5-eb4c-11ed-bb0d-1b7c05955cfa"
   },
   {
     "text": "Design",
@@ -384,13 +517,6 @@
     "pageName": "Buttons/Content",
     "category": "Web / Components / Buttons / Content",
     "url": "/web/components/buttons/content.html#search-2fb49d01-a896-11ed-baf3-5f55dfd4ff0b"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Buttons/Content",
-    "category": "Web / Components / Buttons / Content",
-    "url": "/web/components/buttons/content.html#search-327e6b61-a896-11ed-baf3-5f55dfd4ff0b"
   },
   {
     "text": "Use when...",
@@ -638,11 +764,18 @@
     "url": "/i-os/components/action-button/design.html#search-c960f080-4d3d-11ec-8ce5-cb0f56bcf344"
   },
   {
-    "text": "",
+    "text": "A button is.....",
     "type": "contentBlock",
     "pageName": "Action/Button /Design",
     "category": "iOS / Components / Action/Button  / Design",
     "url": "/i-os/components/action-button/design.html#search-7491d270-51ef-11ec-9e6d-bdf95c8a8921"
+  },
+  {
+    "text": "Use for....",
+    "type": "contentBlock",
+    "pageName": "Action/Button /Design",
+    "category": "iOS / Components / Action/Button  / Design",
+    "url": "/i-os/components/action-button/design.html#search-86a0f680-eb45-11ed-95ec-057c0278f3ab"
   },
   {
     "text": "",
@@ -699,6 +832,34 @@
     "pageName": "Action/Button /Design",
     "category": "iOS / Components / Action/Button  / Design",
     "url": "/i-os/components/action-button/design.html"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Action/Button /Code",
+    "category": "iOS / Components / Action/Button  / Code",
+    "url": "/i-os/components/action-button/code.html#search-703389d1-eb45-11ed-95ec-057c0278f3ab"
+  },
+  {
+    "text": "Code",
+    "type": "pageTitle",
+    "pageName": "Action/Button /Code",
+    "category": "iOS / Components / Action/Button  / Code",
+    "url": "/i-os/components/action-button/code.html"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Action/Button /Content",
+    "category": "iOS / Components / Action/Button  / Content",
+    "url": "/i-os/components/action-button/content.html#search-69a31681-eb45-11ed-95ec-057c0278f3ab"
+  },
+  {
+    "text": "Content",
+    "type": "pageTitle",
+    "pageName": "Action/Button /Content",
+    "category": "iOS / Components / Action/Button  / Content",
+    "url": "/i-os/components/action-button/content.html"
   },
   {
     "text": "Description",

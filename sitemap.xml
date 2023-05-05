@@ -63,6 +63,14 @@
             <changefreq>weekly</changefreq>
         </url>
         <url>
+            <loc>/i-os/components/action-button/code.html</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/i-os/components/action-button/content.html</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
             <loc>/i-os/components/action-button/accessibility.html</loc>
             <changefreq>weekly</changefreq>
         </url>
