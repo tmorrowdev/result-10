@@ -22,7 +22,7 @@
     "url": "/welcome-to-leaf/about-leaf.html#search-c0ff0ee0-eb52-11ed-bb0d-1b7c05955cfa"
   },
   {
-    "text": "Go to the platform and the see each brand",
+    "text": "Go to the platform to see each brand",
     "type": "contentBlock",
     "pageName": "About Leaf",
     "category": "Welcome to LEAF / About Leaf",
@@ -48,13 +48,6 @@
     "pageName": "About Leaf",
     "category": "Welcome to LEAF / About Leaf",
     "url": "/welcome-to-leaf/about-leaf.html#search-72dcba65-eb51-11ed-bb0d-1b7c05955cfa"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "About Leaf",
-    "category": "Welcome to LEAF / About Leaf",
-    "url": "/welcome-to-leaf/about-leaf.html#search-72dcba66-eb51-11ed-bb0d-1b7c05955cfa"
   },
   {
     "text": "About Leaf",
