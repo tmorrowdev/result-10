@@ -186,7 +186,34 @@ function loadSandboxes(url) {
 
 $(function() {
     $('[data-toggle="tooltip"]').tooltip();
+    $('[data-tooltip="tooltip"]').tooltip();
 });
+
+/*-----------------------------
+    Search in lists
+------------------------------- */
+function searchInList(target, list) {
+    
+    var value = $(target).val().toLowerCase().split(" ");
+    // search for for multi-words search
+    $("#"+ list + " .grid > .tile-item").each(function () {
+        matchWords($(this).attr("data-keywords").toLowerCase(), value) ? $(this).removeClass("hidden") : $(this).addClass("hidden")
+    });
+
+    if ( $("#"+ list + " .grid > .tile-item:not(.hidden)").length === 0 )  {
+        $("#"+ list + " .grid").hide();
+        $("#"+ list + " .empty-state").show();
+    } else {
+        $("#"+ list + " .grid").show();
+        $("#"+ list + " .empty-state").hide();
+    }
+}
+
+function matchWords(subject, words) {
+    const hasText = words.every((word) => subject.includes(word));
+
+    return hasText;
+}
 
 /*-----------------------------
     Sandbox helpers
@@ -272,6 +299,11 @@ $(document).ready(function() {
     // otherwise show formatted error message
     document.querySelectorAll('iframe.storybook').forEach(iframe => {
         let src = iframe.getAttribute('src');
+
+        if (!src.startsWith('https://')) {
+            return;
+        }
+
         fetch(src, {
                 method: 'GET',
                 cache: 'no-cache',
